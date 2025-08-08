@@ -1,0 +1,8 @@
+*.class
+*.settings
+*.log
+.cache
+.project
+.classpath
+.quarkus
+target
